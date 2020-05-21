@@ -1,7 +1,7 @@
 # GreetingBot
 Create SlackBot using AWS API Gateway and Lambda
 
-Read this [blog](https://tech.unifa-e.com/entry/2020/05/21/105239) for more datail.
+Read this [blog](https://medium.com/@maimitp9/create-slackbot-using-aws-api-gateway-and-lambda-42304fbd0f26) for more datail.
 
 ## Built With
 
