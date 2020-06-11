@@ -57,7 +57,7 @@ docker pull lambci/lambda:ruby2.7
 
 Running lambda function in development environment
 
-- To verfy request come from Slack
+- To verify request come from Slack
 
 ```
 docker run \
